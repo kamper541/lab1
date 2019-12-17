@@ -1,0 +1,24 @@
+body {
+    background-color: linen;
+ }
+ h1 {
+    color: maroon;
+    margin-left: 40px;
+ }
+ h3 {
+     font-family: arial;
+     color: blue;
+ }
+ #output {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+}
+.c1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* color: fuchsia; */
+}
+.c2 {
+    /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    color: #66FF66;
+}
+/* style = "font-family:Arial;color: blueviolet */
