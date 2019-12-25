@@ -1,0 +1,34 @@
+
+  body{
+    background-image: url('/hw1/Picture/galax.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+  background-size: 100% 100%;
+  }
+
+  .c1{
+      color: aqua;
+  }
+
+  #menu{
+    color: aquamarine;
+  }
+  span {
+    border: 5px solid red;
+    padding:  0em 1em;
+    border-radius: 16px;
+    font-size: 24px;
+    line-height: 2;
+  }
+  .t1{
+    color : greenyellow;
+    cursor: url(myBall.cur),auto;
+  }
+  .t2{
+    color: yellow;
+  }
+  span.s1{
+    -webkit-box-decoration-break: clone;
+  -o-box-decoration-break: clone;
+  box-decoration-break: clone;
+  }

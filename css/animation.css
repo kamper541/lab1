@@ -1,0 +1,21 @@
+div {
+    width: 700px;
+    height: 700px;
+    background:url("/hw1/Picture/gal/giphy.gif");
+    position: relative;
+    -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
+    -webkit-animation-timing-function: linear; /* Safari 4.0 - 8.0 */
+    animation: mymove 5s infinite;
+    animation-timing-function: linear;
+  }
+  
+  /* Safari 4.0 - 8.0 */
+  @-webkit-keyframes mymove {
+    from {left: 0px;}
+    to {left: 1000px;}
+  }
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 1000px;}
+  }
